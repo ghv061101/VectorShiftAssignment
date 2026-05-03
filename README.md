@@ -306,9 +306,6 @@ python -m pytest                        # Run tests (if added)
 
 ---
 
-## License
-
-MIT
 
 ---
 
